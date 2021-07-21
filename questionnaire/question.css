@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body
+{
+	margin: 0px;
+	background-color: gray;
+}
+
+h1
+{
+	color: white;
+}
+
+#error
+{
+	color: red;
+}
+
+#thx
+{
+	color: green;
+	
+}
+
+.sysMes
+{
+	background-color: lightgray;
+	margin: 1em;
+}
+
+#form
+{
+	background-color: green;
+	padding: 0.5em;
+}
+
+.parts
+{
+	background-color: greenyellow;
+	margin: 1em;
+}
